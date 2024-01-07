@@ -3,7 +3,7 @@
 ## [Monday: Establishing a Routine](./1-Monday.md)
 - **Learning Objective:** Establish a consistent daily routine to provide a sense of security.
 - **Activity 1:** Morning routine introduction - greet the day with a familiar sequence of activities.
-- **Activity 2:** Schedule a mid-morning sensory break, introducing textures and objects.
+- **Activity 2:** Late afternoon routine introduction - establish the afternoon being tied to the morning with familiar activites from the morning.
 
 ## [Tuesday: Introducing Basic Communication](./2-Tuesday.md)
 - **Learning Objective:** Introduce basic communication through gestures and eye contact.
