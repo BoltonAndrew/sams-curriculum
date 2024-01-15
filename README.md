@@ -1,7 +1,7 @@
 # Curriculum Overview
 
 ## Introduction
-I've created this to track what we should be teaching Sam and when.
+I've created this to track what we should be teaching Sam and when. For Town Lane Infants, The numbered weeks start from January 8th. Some of the activities are way behind what Sam needed and some are advanced, we use them as a guide and repeat weeks if necessary.
 
 ## [Year 0: Early Years Foundation Stage](./year-0/Year-Overview.md)
 Based around the EYFS standard from the UK government for reception (age 4-5) outlined [here](https://www.gov.uk/early-years-foundation-stage) and [here](https://assets.publishing.service.gov.uk/media/6596dc9fc23a10000d8d0ba8/EYFS_statutory_framework_for_group_and_school_based_providers.pdf)
